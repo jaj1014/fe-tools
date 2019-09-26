@@ -1,8 +1,7 @@
 /*
     USAGE:
-    Copy the below class and paste into the console to access the defined tools.
+    Copy the below class and paste into the console or create a bookmarklet with the code.
 */
-
 const AJAX_FE_TOOLS = function initialize() {
     const inspectVue = function getVC() {
         return (function dudeWheresMyVue(element) {
