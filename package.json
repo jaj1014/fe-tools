@@ -1,0 +1,19 @@
+{
+  "name": "fe-tools",
+  "version": "1.0.0",
+  "description": "FE Tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaj1014/fe-tools.git"
+  },
+  "author": "ajax",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaj1014/fe-tools/issues"
+  },
+  "homepage": "https://github.com/jaj1014/fe-tools#readme"
+}
